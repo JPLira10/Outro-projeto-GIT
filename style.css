@@ -1,0 +1,77 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    color: #c6fbff;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+   background-image: url(pexels-blaque-x-932638.jpg);
+   background-position: right;
+   background-repeat: no-repeat;
+}
+
+.container{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+section .name h1{
+    font-size: 170px;
+}
+
+h5 {
+    font-size: 40px;
+}
+
+#arrow{
+    font-size: 100px;
+}
+
+#about{
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+#about p{
+    font-size: 30px;
+}
+
+.form{
+    width: 35%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.form label{
+    width: 25%;
+    padding: 1%;
+    font-size: 25px;
+}
+
+.form input{
+    width: 50%;
+    padding: 1%;
+    font-size: 20px;
+}
+
+.form button{
+    width: 25%;
+    padding: 1%;
+    font-size: 20px;
+}
+.video video{
+    width: 50%;
+}
+
+.titulo p strong{
+    width: 50%;
+}
